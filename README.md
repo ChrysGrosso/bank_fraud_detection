@@ -1,7 +1,5 @@
 # Détection des chèques impayés et faux chèques pour une enseigne de grande distribution
 
-
-<img scr="images/fraude_reduit.png">
 ![](images/fraude_reduit.png)
 
 
@@ -11,5 +9,4 @@ Les chèques impayés et les faux chèques génèrent une perte non négligeable
 
 ![](images/processus.png)
 
-<span style="display:block;text-align:center">![](images/porcessus.png)</span>
 
