@@ -10,5 +10,5 @@ Les chèques impayés et les faux chèques génèrent une perte non négligeable
 
 ![](images/processus.png)
 
-<span style="display:block;text-align:center">![Test Automation](images/porcessus.png)</span>
+<span style="display:block;text-align:center">![](images/porcessus.png)</span>
 
