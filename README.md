@@ -9,4 +9,11 @@ Les chèques impayés et les faux chèques génèrent une perte non négligeable
 
 ![](images/processus.png)
 
+On peut résumer l’ensemble des meilleurs résultats obtenus pour chaque
+famille d’algorithme testée lors des différentes techniques d’apprentissage :
+
+![](images/results.png)
+
+La regression logistique avec ajustement des poids et modification du seuil d'affectation est la meilleure en terme de F1-score et de critère AUC. De plus, pour les gestionnaires, elle présente l'avantage de pouvoir fournir une description interprétable dans la façon dont les variables influent sur la prise de décision. Cepandant, le One Class SVM et le XGBoost sont très intéréssants au niveau des temps de calcul, notamment dans le cadre des fouilles de données massives. De plus, ils ont des perspectives d'amélioration des performances.
+
 
