@@ -1,3 +1,5 @@
+Projet conduit avec Christelle pour le cours de Fouille de données massives en 2022
+
 # Détection des chèques impayés et faux chèques pour une enseigne de grande distribution
 
 ![](images/fraude_reduit.png)
